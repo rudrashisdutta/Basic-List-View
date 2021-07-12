@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List View Demo</string>
+    <string name="reset_btn_text">Reset</string>
+</resources>
